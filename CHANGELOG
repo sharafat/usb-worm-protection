@@ -1,0 +1,13 @@
+v1.2.0 [2021-07-26]
+- (Fix) External USB drives weren't being detected on Windows 10.
+
+v1.1.0 [2009-02-02]
+- (New) Suspected worm file extension list updated. Also removes any autorun.inf file found in the drive root.
+- (New) Now can detect the following file extensions: exe, cmd, bat, vb, vbs, vbe, vbscript, js, jse, ws, wsf, wsh, pif, scr, sct, script.
+
+v1.0.1 [2008-09-08]
+- (Fix) Newly attached mass storage devices weren't getting detected.
+
+v1.0.0 [2008-08-26]
+- First release.
+
